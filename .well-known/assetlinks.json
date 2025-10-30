@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.jalnix.hezzstar",
+      "sha256_cert_fingerprints": [
+        "35:94:28:08:A1:9D:38:5D:3D:C3:DA:42:CD:DE:29:70:B6:18:7C:C0:6A:64:E7:DD:25:03:40:FA:61:E2:97:7A"
+      ]
+    }
+  }
+]
